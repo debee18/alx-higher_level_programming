@@ -1,4 +1,4 @@
- #!/usr/bin/node
+#!/usr/bin/node
 /**
  * Represents a rectangle class with width and height attributes
  */
